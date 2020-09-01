@@ -1,0 +1,48 @@
+#head {
+    background-color: grey;
+    width: auto;
+    height: 100px;
+    padding-top: 20px;
+}
+
+
+#bluesquare {
+    background-color: rgb(0, 81, 255);
+    width: 75px;
+    height: 75px;
+    margin-left: 25px;
+}
+
+#text {
+    background-color: white;
+    height: 250px;
+    width: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    font-size: 25px;
+}
+
+#blue {
+    background-color: rgb(0, 81, 255);;
+    height: 100px;
+    width: auto;
+}
+
+#sea {
+    background-color: cyan;
+    height: 100px;
+    width: auto;
+}
+
+#green {
+    background-color: greenyellow;
+    height: 100px;
+    width: auto;
+}
+
+#yellow {
+    background-color: yellow;
+    height: 100px;
+    width: auto;
+}
